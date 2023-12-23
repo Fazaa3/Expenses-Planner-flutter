@@ -116,7 +116,7 @@ class _newTransactionState extends State<newTransaction> {
                 style: ElevatedButton.styleFrom(),
                 onPressed: _submitData,
                 child: Text(
-                  'Add Transcaction',
+                  'Add Trans',
                   style: TextStyle(
                       fontWeight: FontWeight.bold, color: Colors.white),
                 ),
